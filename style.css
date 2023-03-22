@@ -1,0 +1,29 @@
+#big_container {
+    width: 40em;
+    padding: 2em;
+    border: 0.5em #000000;
+}
+
+legend {
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgba(0, 53, 128, 0.868)
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
